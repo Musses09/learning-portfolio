@@ -11,8 +11,7 @@ As I continue to develop my skills, I will expand this repository to include mor
 🧬 Technologies & Languages
 I am focusing on the following tools and languages to solve bioinformatics and computational biology problems:
 
-Programming Languages:
-Python: The primary language for my bioinformatics projects, used for genomic data analysis, data manipulation, and implementing bioinformatics algorithms.
+Python: The primary language for my bioinformatics projects, used for genomic data analysis, data manipulation, and implementing bioinformatics algorithms. I have also been completing Rosalind activities in my free time.
 R: Used for statistical analysis, data visualization, and working with bioinformatics-specific packages (e.g., Bioconductor).
 Bash: Writing scripts to automate workflows and process large datasets commonly encountered in bioinformatics.
 
