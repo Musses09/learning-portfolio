@@ -41,6 +41,6 @@ Pursue Professional Opportunities: Apply for roles such as Computational Biologi
 👋 Connect
 Feel free to reach out to me with any questions, feedback, or collaboration opportunities:
 
-LinkedIn: [(https://www.linkedin.com/in/sahra-musse-988908207/)]
-Email: [Musse.Sahra@outlook.com]
+LinkedIn: (https://www.linkedin.com/in/sahra-musse-988908207/)
+Email: Musse.Sahra@outlook.com
 
