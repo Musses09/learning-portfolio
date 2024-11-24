@@ -2,43 +2,98 @@
 My Coding Journey: Bioinformatics & Computational Biology
 
 📜 About This Repository
-Welcome to my Bioinformatics & Computational Biology portfolio! This repository is a log of my progress as I learn Python and develop key skills in bioinformatics, computational biology, and data science. It serves as a personal record of the coding challenges, exercises, and projects I’ve completed, all aimed at building a solid foundation for my future career in scientific research.
+Welcome to my Bioinformatics & Computational Biology portfolio, a reflection of my academic and professional journey as a bioinformatics MSc student. This repository highlights my technical expertise and programming projects, serving as a comprehensive showcase of my capabilities in bioinformatics, computational biology, and data science.
 
-The purpose of this repository is to track my journey in mastering programming languages and tools used in bioinformatics, particularly Python, and to demonstrate my growing expertise in areas such as genomic data analysis, bioinformatics algorithms, and computational biology workflows.
+Here, you’ll find a curated selection of projects that align with my coursework and professional interests, including:
 
-As I continue to develop my skills, I will expand this repository to include more advanced topics and projects, including those focused on R and other programming languages, as well as real-world applications in bioinformatics.
+Biological sequence analysis (e.g., DNA, RNA, protein data)
+Variant calling workflows (SAMtools, Conda pipelines)
+Algorithm development for bioinformatics tasks
+UMAP and dimensionality reduction techniques for single-cell data analysis.
+Each project is structured to demonstrate my programming proficiency, problem-solving ability, and dedication to bridging biological and computational sciences.
 
 🧬 Technologies & Languages
-I am focusing on the following tools and languages to solve bioinformatics and computational biology problems:
+This repository focuses on my use of the following tools and languages to address bioinformatics challenges:
 
-Python: The primary language for my bioinformatics projects, used for genomic data analysis, data manipulation, and implementing bioinformatics algorithms. I have also been completing Rosalind activities in my free time.
-R: Used for statistical analysis, data visualization, and working with bioinformatics-specific packages (e.g., Bioconductor).
-Bash: Writing scripts to automate workflows and process large datasets commonly encountered in bioinformatics.
+Programming Languages
 
-📚 Areas of Focus
-My current focus areas as I develop my skills in computational biology and bioinformatics include:
+Python: Core language for bioinformatics, used for genomic analysis, data preprocessing, and implementing key algorithms (e.g., RNA transcription, GC content calculation).
+R: Statistical data analysis and visualization for biological datasets.
+SQL: Querying biological datasets in relational databases.
+Bash: Workflow automation for processing large-scale genomic data.
+Bioinformatics Tools
 
-Genomic Data Analysis: Analyzing RNA-Seq, DNA-Seq, and microarray data using Python and R to extract meaningful biological insights.
-Statistical Bioinformatics: Applying statistical methods to biological data for tasks such as differential gene expression analysis and pathway enrichment.
-Pipeline Development & Automation: Developing scripts and tools to automate bioinformatics workflows, ensuring reproducibility and efficiency in data processing.
+Sequence Analysis: SAMtools, BLAST, DNA/RNA sequence manipulation.
+Variant Calling Pipelines: Implemented with Conda/SAMtools.
+Dimensionality Reduction: UMAP for single-cell analysis.
 
-Machine Learning in Bioinformatics: Exploring the application of machine learning algorithms for tasks like protein structure prediction and biomarker discovery.
-Bioinformatics Algorithms: Implementing key algorithms for sequence alignment, variant calling, and biological data interpretation.
+📚 Areas of Expertise
+My work spans several domains in bioinformatics, focusing on integrating computational techniques with biological research:
 
-🚀 Projects
-This repository contains a mix of coding challenges, tasks, and personal projects I’ve completed during my learning journey. The focus so far has been on Python, but I will be adding tasks and projects related to R and other tools in the near future. Each folder represents a distinct project or set of tasks related to bioinformatics and computational biology, from data analysis scripts to full-scale computational pipelines.
+Genomic Data Analysis:
+RNA-Seq and DNA-Seq processing using Python and R.
+Tools for motif finding, GC content calculation, and sequence alignment.
+Pipeline Development & Automation:
+End-to-end workflows for sequence alignment and variant calling.
+Ensuring reproducibility and efficiency in bioinformatics workflows.
+Statistical Bioinformatics:
+Differential gene expression analysis using R.
+Clustering techniques (e.g., UMAP) for high-dimensional single-cell data.
+Bioinformatics Algorithms:
+Developing and implementing algorithms for biological pattern matching, transcription, and reverse complementing.
 
-🌱 Goals & Plans
-As I continue to grow in bioinformatics and computational biology, here are my future goals:
+🚀 Highlighted Projects
+Here’s a selection of projects in this repository that complement my academic and professional experience:
 
-Expand My Knowledge: Deepen my understanding of advanced bioinformatics topics such as single-cell RNA sequencing, systems biology, and integrative omics approaches.
+1. Biological Sequence Analysis Portfolio
 
-Publish and Share: Document my progress and share my findings, algorithms, and pipelines to make bioinformatics more accessible and reproducible.
+DNA Nucleotide Counter: Algorithm for counting DNA nucleotides with high accuracy across large datasets.
+RNA Transcription Tool: Processes sequences up to 1000bp with error handling.
+GC Content Calculator: Efficiently computes GC content in large datasets.
+Motif Finder: Finds DNA patterns in sequences using Python-based pattern-matching techniques.
+2. Variant Calling Pipeline
 
-Pursue Professional Opportunities: Apply for roles such as Computational Biologist, Bioinformatician, Data Scientist, or Research Scientist within biological research or healthcare industries.
+Developed a SAMtools-based pipeline for aligning and identifying genetic variants in DNA sequences.
+Automated quality control steps to enhance reproducibility and efficiency.
+3. UMAP for Single-Cell Data Analysis
 
-👋 Connect
-Feel free to reach out to me with any questions, feedback, or collaboration opportunities:
+Applied UMAP dimensionality reduction to macrophage polarization studies.
+Developed preprocessing pipelines for single-cell microscopy datasets.
+Statistically validated clustering outcomes.
+4. Disease Control Strategy Analysis (Academic Project)
+
+Explored bioinformatics methods to analyze vaccine safety data for Chagas disease control.
+Conducted statistical evaluation and presented findings in a professional setting.
+
+🌱 Goals & Future Directions
+As a student aiming to integrate bioinformatics with real-world biological research, my repository is a dynamic platform to track my progress. Here’s how I plan to expand this space:
+
+Advanced Topics: Add projects in single-cell RNA sequencing, systems biology, and machine learning for bioinformatics.
+Collaborative Work: Collaborate on open-source projects and integrate contributions to published workflows.
+
+🏗 Structure of the Repository
+This repository is organized into directories that correspond to specific projects or coding challenges. Each folder includes:
+
+The source code and/or scripts.
+Input and output data (where applicable).
+Documentation or README files explaining the methods, tools, and results.
+
+🌟 Why This Repository?
+This repository bridges the gap between wet-lab expertise (PCR, flow cytometry, etc.) and computational analysis, showcasing my ability to manage data from generation to meaningful biological insight. It reflects my growth in:
+
+Programming proficiency in Python, R, and Bash.
+Bioinformatics-specific knowledge (e.g., variant calling, genomic analysis).
+Critical thinking and problem-solving applied to real-world biological data.
+
+🔗 Explore My Projects
+Each project folder contains detailed information, code, and documentation to help you follow along. Browse the repository and feel free to reach out with suggestions or opportunities for collaboration.
+
+Adjustments Specific to CV Alignment
+Incorporate UMAP Project: Emphasize its relevance to single-cell data and clustering techniques (linked to your MSc research).
+Variant Calling: Highlight as an academic-to-real-world pipeline example.
+Technical Skills: Showcase the programming languages/tools mentioned in the CV (Python, R, SAMtools).
+Professional Tone: Align phrasing with your CV's formal and focused style.
+This tailored repository profile ensures consistency between your CV and GitHub, positioning your skills and projects cohesively for employers or collaborators.
 
 LinkedIn: (https://www.linkedin.com/in/sahra-musse-988908207/)
 Email: Musse.Sahra@outlook.com
