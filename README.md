@@ -1,4 +1,4 @@
-# python-coding-portfolio
+# Introduction
 My Coding Journey: Bioinformatics & Computational Biology
 
 📜 About This Repository
