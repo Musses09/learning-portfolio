@@ -1,8 +1,8 @@
 | Command | Description | Option | Option Description |
 |---------|-------------|--------|--------------------|
 | `ls` | List of files and directories | `-l` | Provide detailed info about files and directories |
-| `ls` | List of files and directories | `-a` | Include hidden files in the list |
-| `ls` | List of files and directories | `-h` | Display files and their sizes |
+| `ls` |  | `-a` | Include hidden files in the list |
+| `ls` |  | `-h` | Display files and their sizes |
 | `cd` | Change directory | `-` | Switch to the previous directory |
 | `cd` | Change directory | `~` | Switch to the home directory |
 | `pwd` | Print path of current working directory | `-L` | Print logical path of the current directory |
