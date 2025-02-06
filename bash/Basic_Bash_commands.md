@@ -1,3 +1,5 @@
+# Basic Commands in Bash
+
 | Command | Description | Option | Option Description |
 |---------|-------------|--------|--------------------|
 | `ls` | List of files and directories | `-l` | Provide detailed info about files and directories |
