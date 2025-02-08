@@ -42,4 +42,6 @@ I hope this serves as both a portfolio of my expertise and an open space for col
 
 I’m always eager to discuss bioinformatics projects, share insights, and collaborate with others in the field. Feel free to reach out:
 
-📧 Email: Musse.Sahra@outlook.com💼 LinkedIn: Sahra Musse
+📧 Email: Musse.Sahra@outlook.com
+💼 LinkedIn: [Sahra Musse](https://www.linkedin.com/in/sahra-musse-988908207/)
+[Contents Page]()
