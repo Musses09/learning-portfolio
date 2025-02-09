@@ -1,0 +1,17 @@
+Your objective is to analyze sequencing data by mapping reads and identifying genetic variants across three samples. Follow the steps below carefully:
+
+Task Breakdown:
+
+1.Map the Reads & Call Variants
+Align the sequencing reads to a reference genome for all three samples.
+Perform variant calling to identify genetic differences in each sample.
+Save the commands you used in a text file.
+
+2.Analyse the Variant Call Files (VCFs)
+Examine the VCF files generated from the variant calling step.
+Identify if one sample appears different from the others.
+Explain which sample is different and why you think it stands out.
+
+3.Hypothesis & Explanation
+Based on your findings, propose a possible explanation for why the sample differs.
+Consider factors like sequencing errors, contamination, mutations, or sample mix-ups.

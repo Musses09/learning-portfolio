@@ -35,3 +35,4 @@ def rna_to_protein(rna):
 
 protein_string = rna_to_protein(rna_sequence)
 print( " \n ", protein_string)
+
